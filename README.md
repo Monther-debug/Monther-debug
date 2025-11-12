@@ -1,5 +1,3 @@
-# 🇱🇾 My Libya Rank
+# 🇱🇾 Libya Rank: #22
 
-![Rank](https://img.shields.io/badge/Libya_Rank-Unranked-red?style=for-the-badge)
-
-[View Full Libya Leaderboard](https://committers.top/libya_private)
+![Contributions](https://img.shields.io/badge/Contributions-1795-brightgreen?style=for-the-badge)
